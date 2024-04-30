@@ -32,4 +32,4 @@ Contribuições são bem-vindas! Se você quiser melhorar este projeto, sinta-se
 ## Autor
 
 Este jogo foi desenvolvido por [Bianca Ribeiro](https://github.com/brbiancr), 
-no curso Java Completo: Do Zero ao Profissional Udemy (https://www.udemy.com/course/fundamentos-de-programacao-com-java/?couponCode=ST2MT43024)
+no curso [Java Completo: Do Zero ao Profissional](https://www.udemy.com/course/fundamentos-de-programacao-com-java/?couponCode=ST2MT43024)
