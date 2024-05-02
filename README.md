@@ -14,15 +14,15 @@ O jogo termina se o jogador abrir uma célula que contenha uma mina, resultando 
 
 ## Funcionalidades
 
-- Interface de linha de comando simples para interação com o jogador.
-- Siga as instruções no console para jogar o jogo.
-- Para revelar uma célula, digite a linha e coluna desejadas quando solicitado.
+- Interface gráfica Swing para interação com o jogador.
+- Para revelar uma célula, clique na célula desejada com o botão esquerdo do mouse.
+- Para marcar uma célula, clique na célula desejada com o botão direito do mouse.
 - O jogo continuará até que todas as células seguras sejam reveladas ou uma mina seja encontrada.
 
 ## Requisitos
 
 - Java Development Kit (JDK) instalado.
-- Qualquer ambiente de desenvolvimento Java ou linha de comando.
+- Qualquer ambiente de desenvolvimento Java.
 
 
 ## Contribuição
