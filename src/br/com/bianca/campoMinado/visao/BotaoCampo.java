@@ -18,7 +18,7 @@ public class BotaoCampo extends JButton implements CampoObservador, MouseListene
 	
 	private final Color BG_PADRAO = new Color(184, 184, 184);
 	private final Color BG_MARCAR = new Color(135,206,250);
-	private final Color BG_EXPLODIR = new Color(255,69,0);
+	private final Color BG_EXPLODIR = new Color(178,34,34);
 	private final Color TEXTO_VERDE = new Color(0, 100, 0);
 	
 	
